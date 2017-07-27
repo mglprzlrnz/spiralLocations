@@ -7,5 +7,19 @@ body {
 
 #construction {
   width: 100%;
-  possition: fixed:
+  position: fixed;
+}
+
+
+@media only screen and (max-width: 768px) {
+.container {
+  width: 100%;
+  position: fixed;
+}
+
+#construction {
+  width: 320%;
+  transform: translateX(-1080px);
+
+}
 }
