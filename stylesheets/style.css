@@ -11,7 +11,7 @@ body {
 }
 
 
-@media only screen and (max-width: 768px) {
+/* @media only screen and (max-width: 768px) {
 .container {
   width: 100%;
   position: fixed;
@@ -22,4 +22,4 @@ body {
   transform: translateX(-1080px);
 
 }
-}
+} */
