@@ -1,25 +1,10 @@
-
 body {
   padding: 0%;
   border: 0%;
   margin: 0%;
-}
-
-#construction {
-  width: 100%;
-  position: relative;
-}
-
-
-/* @media only screen and (max-width: 768px) {
-.container {
-  width: 100%;
-  position: relative;
-}
-
-#construction {
-  width: 320%;
-  transform: translateX(-1080px);
-
-}
-} */
+  background: url(./../images/TEST02.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} 
